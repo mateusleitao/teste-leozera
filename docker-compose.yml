@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 
 services:
   testeleo:
@@ -8,4 +8,3 @@ services:
       - 3000:3000
     volumes:
       - .:/usr/app
-   
